@@ -6,13 +6,13 @@ I’m a **Software Quality Engineer** with expertise in **Automation Testing, Ma
 
 ### 🚀 Skills & Expertise  
 - **Automation Testing** – Selenium, RestAssured, API Testing  
-- **Manual Testing** – Functional, Regression, Exploratory Testing  
+- **Manual Testing** – Functional, Regression, Smoke & Sanity Exploratory Testing  
 - **AWS** – Cloud Services for Test Automation & DevOps  
 - **Java** – Core Java 8+, OOP, Clean Code  
 
 ### 🌱 Currently Learning  
-- **Advanced Java & Design Patterns**  
-- **Performance & Security Testing**  
+- **API Automation**  
+- **Performance Testing**  
 - **CI/CD & Cloud-Based Testing**  
 
 ### ⚡ Fun Fact  
